@@ -1,16 +1,67 @@
 # こんにちは。ひめしです。
 ![顔写真](iOSDC2023_picture.jpg "顔写真")
 東京在住のiOSエンジニアです。  
+
 本名: 平井 亨武（ひらい あきむ）
 
 ## SNS
-- Twitter (X): [@himeshi_tech](https://twitter.com/himeshi_tech), [@himeshi_hob](https://twitter.com/himeshi_hob)
+- Twitter (X): 
+  - [@himeshi_tech](https://twitter.com/himeshi_tech)
+  - [@himeshi_hob](https://twitter.com/himeshi_hob) ... Simutrans関連情報発信用のアカウントです。
 - GitHub: [teamhimeH](https://github.com/teamhimeh)
 - Discord: `himeshi_hob`
 
+## ご依頼について
+現在、以下のことがらについてご依頼を承っております。Twitterアカウント[@himeshi_tech](https://twitter.com/himeshi_tech)にまでご連絡ください。  
+案件によっては引き受けまで時間を要することがありますので、お早めにご相談をお願いいたします。
+- プログラミング家庭教師
+  - iOS開発が専門ですが、その他の領域についてもご相談ください。
+  - ご依頼の例
+    - 大学の研究室での研究のためにiOSアプリを開発する必要があり、そのサポートをしてほしい。
+- 技術相談（テックコンサルティング）
+  - プロダクトの技術的な課題について、継続的にアドバイスをさせていただきます。
+  - プロダクト開発自体は承っておりません。（月あたりの稼働時間に制約があるためです。）
+
+## 技術スタック
+- iOSアプリ開発経験（Swift）
+  - 業務経験3年、言語自体の経験6年
+  - Apple WWDC18 スカラシップ採用者です。
+- 個人プロジェクト等で現在常用しているもの
+  - プログラミング言語: C++, Python
+  - ツール: Git, Docker
+- その他経験があるもの
+  - プログラミング言語: JavaScript/TypeScript (React, Node), HTML, Java, Kotlin, Ruby, Go, Rust
+  - ツール: Docker compose, Terraform
+  - クラウドサービス: Firebase, AWS
+
+## 私はこんなエンジニアです。
+学生のときから個人開発を行なっており、現職を含め常にユーザと向き合ってきました。ユーザの体験を第一に考えながら開発を進行する意識を常に持っています。
+
+現職における経験を通じて、可読性および保守性を重視した開発ノウハウを獲得しています。ユーザの皆様に信頼して使っていただけるアプリの開発が可能です。
+
+Non-Japaneseの方、他部署および開発組織内の方との円滑なコミュニケーションを取るための高いスキルを保持していると自負しています。小さな組織でも大きな組織でも、協業しチームとして結果に貢献することができます。
+
+また、これまでPRレビューや最新技術のキャッチアップ、シェア等を通じて、チームメンバーのスキル向上に貢献してきました。最新技術については、毎年WWDC期間に特に集中してキャッチアップを行なっています。個人だけではなく、チームとして成長し続けられるようにリードすることが可能です。
+
 ## 個人プロジェクト
-- [Simutrans OTRP](https://github.com/teamhimeh/simutrans/wiki/OTRP-Home)
-- [路線図メーカー](https://wikiwiki.jp/routemapmake/)
+### Simutrans
+[Simutrans](https://www.simutrans.com/)は、フリーでオープンソースの輸送シミュレーションゲームです。このゲームについて、私は以下の活動を行なっています。
+
+- [Simutrans OTRP](https://github.com/teamhimeh/simutrans/wiki/OTRP-Home)の開発、運営
+  - 日本のプレイヤー向けに、本家Simutransを大幅に拡張したforkです。2017年から行なっています。
+  - 日本のSimutransプレイヤーのうち60%程度がこのfork版を使っていると言われています。
+  - 技術領域: C++。SDLという比較的低レイヤなライブラリを用いてグラフィック描画などを行なっています。
+- Simutrans Advent Calendarの運営
+  - エンジニアの文化であるAdvent CalendarをSimutransコミュニティに持ち込み、毎年運営を行なっています。
+  - [2023年版](https://adventar.org/calendars/8680)も大好評満員御礼となりました。
+- [Simutrans International Forum](https://forum.simutrans.com/)（本家フォーラム）へのcontribute
+
+### 路線図メーカー
+[路線図メーカー](https://wikiwiki.jp/routemapmake/)は、簡単、キレイに路線図を自作できるソフトウェアです。
+現在は開発を終了しています。
+
+- 累計20000ダウンロードを記録しています。
+- 技術領域: Java, JavaFX（FXMLを用いた開発をしています。）
 
 ## 経歴
 ### 職歴

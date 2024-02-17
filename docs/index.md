@@ -1,4 +1,5 @@
 # こんにちは。ひめしです。
+[English version is here](profile_en.md)
 ![顔写真](iOSDC2023_picture.jpg "顔写真")
 東京在住のiOSエンジニアです。  
 
@@ -25,7 +26,7 @@
 ## 技術スタック
 - iOSアプリ開発経験（Swift）
   - 業務経験3年、言語自体の経験6年
-  - Apple WWDC18 スカラシップ採用者です。
+  - [Apple WWDC18 スカラシップ採用者です。](https://news.mynavi.jp/article/20180531-638677/)
 - 個人プロジェクト等で現在常用しているもの
   - プログラミング言語: C++, Python
   - ツール: Git, Docker

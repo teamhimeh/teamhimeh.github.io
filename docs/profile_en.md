@@ -87,8 +87,11 @@ October 2023 - present | LY Corporation | Due to company merger
 
 ### Writing and speaking experience
 
-Time | Category | Qualification 
+Time | Category | Event/Title 
 ---- | ---- | ----
 October 2022 | Technical blog | LINE Engineering Blog article (Japanese)<br/>[How to define asynchronous API functions with progress handler in Swift](https://engineering.linecorp.com/ja/blog/swift-asynchronous-function-api-with-a-progress-handler)
 September 2023 | Tech talk | iOSDC Japan 2023<br/>[Let's free CoreData from threads with Actor](https://fortee.jp/iosdc-japan-2023/proposal/240c16ac-498a-4d17-a43a-f34f0fdbe041)
 September 2023 | Poster presentation | iOSDC Japan 2023<br/>[Securely encrypt user data on devices in large-scale apps](https://fortee.jp/iosdc-japan-2023/proposal/2efea065-73fe-4c1c-a4ca-2bcaad26ab3e)
+March 2024 | Tech talk（English） | try! Swift Tokyo 2024<br/>[The Future of C++ Interoperability: Insights from Porting a Game to Swift](https://youtu.be/P1IwI0Wh-Rg?si=mItRXje_NJMW19r9)
+April 2024 | Tech talk | Swift Expands!<br/>[Talked about Swift C++ interoperability](https://www.youtube.com/live/wmvndv6SHVM?si=X2ZtxOutWrV-ELCF&t=4768)
+September 2024 | Tech talk（English） | iOSDevUK<br/>Concurrency Safe SwiftData

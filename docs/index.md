@@ -89,11 +89,14 @@ Non-Japaneseの方、他部署および開発組織内の方との円滑なコ�
 
 ### 執筆登壇経験
 
-時期 | カテゴリ | 資格 
+時期 | カテゴリ | イベント/タイトル 
 ---- | ---- | ----
 2022年10月 | 技術ブログ | LINE Engineering Blog記事<br/>[Swiftにおけるprogress handlerを伴う非同期API関数の定義方法](https://engineering.linecorp.com/ja/blog/swift-asynchronous-function-api-with-a-progress-handler)
 2023年9月 | 登壇 | iOSDC Japan 2023<br/>[ActorでCoreDataをスレッドから解放しよう](https://fortee.jp/iosdc-japan-2023/proposal/240c16ac-498a-4d17-a43a-f34f0fdbe041)
 2023年9月 | ポスター発表 | iOSDC Japan 2023<br/>[大規模アプリにおいてデバイス上のユーザデータを安全に暗号化する](https://fortee.jp/iosdc-japan-2023/proposal/2efea065-73fe-4c1c-a4ca-2bcaad26ab3e)
+2024年3月 | 登壇（英語） | try! Swift Tokyo 2024<br/>[ゲームのSwift移植から見えたC++ interoperabilityの展望](https://youtu.be/P1IwI0Wh-Rg?si=mItRXje_NJMW19r9)
+2024年4月 | 登壇 | Swift Expands! -ゲームから配信まで広がるSwiftの進化-<br/>[Swift C++ Interoperabilityの活用について座談会形式でトーク](https://www.youtube.com/live/wmvndv6SHVM?si=X2ZtxOutWrV-ELCF&t=4768)
+2024年9月 | 登壇（英語） | iOSDevUK<br/>Concurrency Safe SwiftData
 
 ### 保有資格
 

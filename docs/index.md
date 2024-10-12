@@ -96,6 +96,7 @@ Non-Japaneseの方、他部署および開発組織内の方との円滑なコ�
 2023年9月 | ポスター発表 | iOSDC Japan 2023<br/>[大規模アプリにおいてデバイス上のユーザデータを安全に暗号化する](https://fortee.jp/iosdc-japan-2023/proposal/2efea065-73fe-4c1c-a4ca-2bcaad26ab3e)
 2024年3月 | 登壇（英語） | try! Swift Tokyo 2024<br/>[ゲームのSwift移植から見えたC++ interoperabilityの展望](https://youtu.be/P1IwI0Wh-Rg?si=mItRXje_NJMW19r9)
 2024年4月 | 登壇 | Swift Expands! -ゲームから配信まで広がるSwiftの進化-<br/>[Swift C++ Interoperabilityの活用について座談会形式でトーク](https://www.youtube.com/live/wmvndv6SHVM?si=X2ZtxOutWrV-ELCF&t=4768)
+2024年8月 | 登壇 | iOSDC Japan 2024<br/>[Concurrency Safe SwiftData - 並行安全なSwiftDataの使い方](https://fortee.jp/iosdc-japan-2024/proposal/e589e638-66dd-4d1c-b769-ae695ac536ca)
 2024年9月 | 登壇（英語） | iOSDevUK<br/>Concurrency Safe SwiftData
 
 ### 保有資格
